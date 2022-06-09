@@ -1,1 +1,2 @@
-# Egde-Detection-Based-on-Fuzzy-Reasoning
+# A Simple Edge Detection System Based on Fuzzy Reasoning
+...
